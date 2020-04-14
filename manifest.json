@@ -1,0 +1,14 @@
+{
+    "name": "TomatoTicker",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Just work hard at every 0-24 and 30-54 minutes",
+    "browser_action": {
+        "default_icon": "TomatoTicker.png",
+        "default_popup": "popup.html"
+    },
+    "homepage_url": "https://tomatoticker.snomiao.com/",
+    "background": {
+        "page": "background.html"
+    }
+}
