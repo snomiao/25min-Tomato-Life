@@ -12,7 +12,7 @@ You can install me in here.
 
 https://chrome.google.com/webstore/detail/tomato-life/kkacpbmkhbljebmpcopjlgfgbgeokbhn
 
-## how do this work
+## How do this work
 
 in every hours, you can hear:
 
@@ -24,7 +24,7 @@ in every hours, you can hear:
 
 --:55:00 play G-C notes, reminder you to relax for 5 min
 
-## support or pull request?
+## Need support or pull request?
 
 source on github:
 https://github.com/snomiao/Tomato-Life
