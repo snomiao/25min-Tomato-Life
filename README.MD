@@ -20,3 +20,9 @@ in every hours, you can hear:
 
 --:55:00 play G-C notes, reminder you to relax for 5 min
 
+## support or pull request?
+
+source on github:
+https://github.com/snomiao/Tomato-Life
+
+Issue and pull requests are welcome.
