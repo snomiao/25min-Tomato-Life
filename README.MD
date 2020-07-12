@@ -32,3 +32,10 @@ https://github.com/snomiao/Tomato-Life
 
 Issue and pull requests are welcome.
 
+## TODO
+
+- [ ] 300x300 icon
+- [ ] 440x280 icon
+- [ ] 1280x800 screenshot
+- [ ] youtube video
+- [ ] keywords
