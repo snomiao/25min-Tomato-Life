@@ -1,12 +1,13 @@
 {
-    "name": "25 min Tomato Life",
+    "name": "25min Tomato Life",
     "version": "1.4",
     "manifest_version": 2,
-    "description": "Just work hard at every 0-24 and 30-54 minutes！😎📈💯",
+    "description": "Just work hard at every 0-24 and 30-54 minutes",
+    "default_icon": "Tomato.png",
     "icons": {
-        "16": "Tomato.png",
-        "48": "Tomato.png",
-        "128": "Tomato.png"
+        "16": "Tomato-16.png",
+        "48": "Tomato-48.png",
+        "128": "Tomato-128.png"
     },
     "browser_action": {
         "default_icon": "Tomato.png",
