@@ -4,12 +4,6 @@ Lang: __[English](README.md)__ | [中文简体](README_zh-CN.MD)
 
 Just work hard at every 0-24 and 30-54 minutes.
 
-Violent Pomodoro Technique
-
-At 25, 55 minutes per hour, a ringing reminder bell sounds, and after 5 minutes, a ringing reminder tone works.
-
-During the rest period, you can get up and move your muscles, stretch out, pour a cup of coffee, tidy up the table, do some simple exercise, reorganize your will, and continue your work in the next 25 minutes.
-
 ## Install
 
 You can install me in here.
@@ -18,6 +12,12 @@ As Chrome Extension (Recommended, keep running in background automatically)
 https://chrome.google.com/webstore/detail/tomato-life/kkacpbmkhbljebmpcopjlgfgbgeokbhn
 
 ## How do this work
+
+Violent Pomodoro Technique
+
+At 25, 55 minutes per hour, a ringing reminder bell sounds, and after 5 minutes, a ringing reminder tone works.
+
+During the rest period, you can get up and move your muscles, stretch out, pour a cup of coffee, tidy up the table, do some simple exercise, reorganize your will, and continue your work in the next 25 minutes.
 
 In every hours, you can hear:
 - 00:00 plays C-G notes, means you start to working or learning or whatever
